@@ -1,1 +1,3 @@
-Necesaria para crear carpetas en github
+Esta carpeta YA no contiene la tarea.
+
+Se migró junto a todas las demás actividades a "Trabajos SEM IA1"
